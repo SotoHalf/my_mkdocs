@@ -11,4 +11,7 @@ Repositorio de MkDocs para organizar mis apuntes y crear una wiki personal sobre
 - Python
 - MkDocs
 
+## Comandos
 
+- mkdocs serve
+- source venv/bin/activate
