@@ -1,6 +1,8 @@
 site_name: C#
 theme:
   name: material
+  font:
+    text: Roboto
   features:
     - navigation.tabs
     - navigation.sections
