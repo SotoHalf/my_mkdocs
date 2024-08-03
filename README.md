@@ -15,3 +15,4 @@ Repositorio de MkDocs para organizar mis apuntes y crear una wiki personal sobre
 
 - mkdocs serve
 - source venv/bin/activate
+- deactivate
