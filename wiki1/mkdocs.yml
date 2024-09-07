@@ -1,6 +1,8 @@
-site_name: C#
+site_name: Notes for the C# language
 theme:
   name: material
+  favicon: img/favicon.png
+  logo: img/favicon.png
   font:
     text: Roboto
   features:
